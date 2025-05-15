@@ -151,4 +151,21 @@
     }
   
   
-    
+/* styles.css*/
+body {
+    background-image: url(../media/img/Blue.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.tamanio-veterinaria{
+  width: 160px;
+  height: 130px;
+}
+
+.tamanio-gato{
+  width: 160px;
+  height: 150px;
+}
+
